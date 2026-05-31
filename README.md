@@ -9,14 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/real_a.bee" target="blank"><img src="https://img.shields.io/twitter/follow/real_a.bee?logo=twitter&style=for-the-badge" alt="real_a.bee" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce App**
-
-- 🌱 I’m currently learning **API Development, Python**
-
-- 👯 I’m looking to collaborate on **Android and IOS Development**
-
-- 💬 Ask me about **React-Native**
-
+- 🔭 I’m currently building backend systems and full-stack applications (Node.js, Express, PostgreSQL)
+- 🌱 I’m strengthening my knowledge in system design, authentication, and scalable APIs
+- 👯 I’m open to collaborating on fintech, backend, and mobile application projects
+- 💬 Ask me about backend development, API design, and React Native apps
 - 📫 How to reach me **jamesabrahammm@gmail.com**
 
 - ⚡ Fun fact **I think I am cool and Fun to work with**
