@@ -17,6 +17,16 @@
 
 - ⚡ Fun fact **I think I am cool and Fun to work with**
 
+ <h3 align="left">## 🧩 Featured Projects</h3>
+
+### 💳 Kashup Backend (Fintech API)
+Backend system built with Node.js, Express, and PostgreSQL featuring authentication, wallet logic, and transaction flows.
+
+### 🎥 Video Frontend Project
+Frontend UI project built with React for video-based application interface and user interaction flows.
+
+### 🔐 Authentication System (Practice Project)
+User signup/login system with password hashing using bcrypt and structured backend architecture.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/real_a.bee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="real_a.bee" height="30" width="40" /></a>
